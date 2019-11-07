@@ -14,7 +14,7 @@ import java.util.List;
  * @Version 1.0
  */
 @Controller
-//@RequestMapping("/sysConfig")
+@RequestMapping("/sysConfig")
 public class SysConfigController {
 
     @Autowired

@@ -1,5 +1,0 @@
-com\shopp\mapper\SysConfigMapper.class
-com\shopp\controller\SysConfigController.class
-com\shopp\entity\SysConfig.class
-com\shopp\service\impl\SysConfigServiceImpl.class
-com\shopp\service\SysConfigService.class
